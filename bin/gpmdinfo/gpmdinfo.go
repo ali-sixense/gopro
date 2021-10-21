@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/stilldavid/gopro-utils/telemetry"
+	"github.com/ali-sixense/gopro-utils/telemetry"
 )
 
 func main() {
