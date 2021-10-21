@@ -1,7 +1,7 @@
 package telemetry
 
 import (
-	"fmt"
+//	"fmt"
 	"io"
 	"io/ioutil"
 )
